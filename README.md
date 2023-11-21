@@ -39,3 +39,5 @@ Tested in: Matlab R2020a on Windows 10 PC and Linux servers (64-bit) with Dynare
 We build on the excellent Dynare code kindly made available by [Thomas Winberry](http://www.thomaswinberry.com/research/index.html) (see also [Winberry, QE 2018](https://qeconomics.org/ojs/index.php/qe/article/view/617)).
 
 Plagborg-Møller acknowledges that this material is based upon work supported by the National Science Foundation under Grant #1851665.
+
+**Some test text**
